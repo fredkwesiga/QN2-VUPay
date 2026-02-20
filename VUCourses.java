@@ -1,6 +1,5 @@
 
 package uk.vupay;
-import java.util.Scanner;
 
 /**
  *
